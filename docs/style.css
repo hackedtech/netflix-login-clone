@@ -90,16 +90,3 @@ form button{
 	text-decoration: none;
 	color: #ffffff;
 }
-
-/*attribute*/
-.attr{
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    color: #8a8a8a;
-}
-.attr span{
-	text-decoration: underline;
-	cursor: pointer;
-}
